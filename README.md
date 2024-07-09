@@ -1,6 +1,6 @@
 ### Python - PDF to Image Converter
 
-This code will fetch the pdf from the location and convert each page into png one by one.
+This code will fetch the pdf from the location and convert each page into png (images) one by one.
 
 ### Pre Req:
 
